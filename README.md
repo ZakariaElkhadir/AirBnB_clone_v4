@@ -156,7 +156,5 @@ No known bugs at this time.
 ## Authors
 Zakaria Elkhadir - [Github](https://github.com/ZakariaElkhadir) / [Twitter](https://twitter.com/ZakariaElkhadi5)  
 Zakaria Chamakh - [Github](https://github.com/zakariachamakh) / [Twitter](https://twitter.com/ChamakhZakaria)  
-
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
